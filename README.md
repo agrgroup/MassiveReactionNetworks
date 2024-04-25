@@ -9,3 +9,10 @@ This notebook contains implementation of feature engineering, hyperparameter tun
 
 ### ML/Prediction.ipynb:
 This notebook contains end to end Ea to Ga prediction. 
+
+### ML/LOOCV.ipynb:
+This notebook contains Leave One Out Cross-validation implementation for the AE-RE model.
+
+### ML/kfCV.ipynb:
+This notebook contains k-Fold Cross-validation implementation for the AFE-RFE model.
+
