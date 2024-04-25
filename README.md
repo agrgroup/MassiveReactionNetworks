@@ -3,3 +3,9 @@
 This folder contains files related to AE-RE and AFE-RFE model and its implementation.
 ### ML/Ea.ipynb:
 This notebook contains implementation of feature engineering, hyperparameter tuning, model selection, and prediction for AE-RE model. 
+
+### ML/Ga.ipynb:
+This notebook contains implementation of feature engineering, hyperparameter tuning, model selection, and prediction for AFE-RFE model. 
+
+### ML/Prediction.ipynb:
+This notebook contains end to end Ea to Ga prediction. 
