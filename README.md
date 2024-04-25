@@ -1,5 +1,6 @@
 # Demystifying catalytic CO2/CO reduction pathways with thousands of elementary reactions via mechanism discovery and machine-learned kinetic barriers
-![Cover Image] (./Cover_Image.png)
+![Cover Image](https://github.com/agrgroup/Thermochemical-CO2RR/assets/70911775/1aeebc54-3206-4308-a1b8-fef90d46ae1a)
+
 ## Contents:
 ### ML: 
 This folder contains files related to AE-RE and AFE-RFE model and its implementation.
