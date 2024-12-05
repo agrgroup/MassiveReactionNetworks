@@ -22,6 +22,8 @@ tational catalysis research and carbon conversion processes.
 
 ![Cover Image](https://github.com/agrgroup/Thermochemical-CO2RR/assets/70911775/1aeebc54-3206-4308-a1b8-fef90d46ae1a)
 
+This project is organized into multiple folders, each containing relevant notebooks and data files for various machine learning models and frameworks. Below is an overview of the directory structure, including descriptions of each file and its purpose.
+
 ## Directory Structure:
 ### ML: 
 This folder contains files related to the AE-RE and AFE-RFE models, along with their implementations.
@@ -54,3 +56,18 @@ This csv file contains manually labelled reactions used to validate the ERI fram
 
 #### Elementary_Reaction_Identifier.ipynb:
 This notebook implements the ERI framework.
+
+### ARE:
+
+#### Automated Reaction Enumeration.ipynb
+Code to enumerate all possible reactions based on intermediates provided.
+
+#### ads species(ARE input file)
+Input file for containing intermediates information
+
+#### ARE Ouput (ERI Input).csv:
+Input file for ERI containing all the reactions generated from ARE.
+
+
+
+
