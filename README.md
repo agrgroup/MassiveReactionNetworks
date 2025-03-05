@@ -1,22 +1,7 @@
-# Demystifying catalytic CO<sub>2</sub> reduction pathways with thousands of elementary reactions via mechanism discovery and machine-learned kinetic barriers
+# Data-driven massive reaction networks reveal new pathways underlying catalytic CO2 hydrogenation
 
 **Abstract**: <br>
-Heterogeneous catalytic pathways involve thousands of elementary steps, forming an
- intricate web of chemical reactions, but most first-principles kinetic models involve only
- a few dozen elementary steps. Here, we combine extensive quantum-mechanical cal
-culations of reaction thermodynamics/kinetics, machine-learning models for activation
- barrier prediction, and methods for automated reaction enumeration and elementary re
-action identification. Thereby, we devise an approach that enables automated microki
-netic modeling (MKM) of CO<sub>2</sub> reduction pathways on copper with an unprecedented
- 9389 elementary reactions. We validate our computational outcomes with experimen
-tal observations. The ensuing results follow experimental trends of methanol and CO
- production rates, contrary to the conclusions of MKM based on a smaller subset of
- manually curated reactions. Considering hundred-plus C1-C4 compounds, our auto
-mated approach unravels intermolecular hydrogen-hopping reactions to be the key to
- accurately simulating the CO<sub>2</sub> reduction pathway. We also establish the importance
- of CH<sub>3</sub>CHO in forming longer-chain hydrocarbons. Overall, the proposed strategy to
- comprehensively model complex catalytic pathways will significantly advance compu
-tational catalysis research and carbon conversion processes.
+Heterogeneous catalytic pathways for clean energy conversion involve thousands of elementary steps, but most quantum-mechanical models involve only a few dozen reactions. We combine extensive density functional theory (DFT) calculations, machine learning (ML) for activation barrier prediction, and human intelligence-inspired reaction enumeration and elementary reaction identification. This enables automated kinetic modeling of CO2 hydrogenation on copper, a key process to produce fuels and chemicals. We construct the largest dataset of 152 elementary CO2 reduction reactions and experimentally determine CO2 conversion, finding that even large networks with 100+ reactions are insufficient. In contrast, our approach reveals 9389 elementary reactions, reducing human bias in the reaction pathway. We unravel 40-fold higher CO2 conversion rates, following experimental trends of methanol and CO production. We establish the crucial role of intermolecular hydrogen transfer and hydrogenation by molecular hydrogen, a surprising ML-enabled discovery validated post-facto. The proposed strategy to comprehensively model complex catalytic mechanisms will significantly advance catalysis research and carbon conversion processes.
 <br>
 <br>
 
