@@ -47,7 +47,7 @@ This notebook implements Leave One Out Cross-validation (LOOCV) for the AE-RE mo
 #### kfCV.ipynb:
 This notebook implements k-Fold Cross-validation for the AFE-RFE model. k-Fold CV is a widely used technique that helps ensure the model's generalizability by dividing the dataset into k subsets.
 
-Feel free to explore each notebook for detailed implementations and methodologies!
+Feel free to explore each notebook for detailed implementations and methodologies.
 
 
 
