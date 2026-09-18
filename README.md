@@ -245,23 +245,6 @@ The main results include:
 * Data-driven discovery of mechanistic pathways that were subsequently validated
 
 ---
-
-## Complete Dataset
-
-The complete computational dataset associated with this work is available through Materials Cloud.
-
-**Materials Cloud:**
-https://archive.materialscloud.org/records/jkbr7-d2a84
-
-**DOI:**
-https://doi.org/10.24435/materialscloud:94-1n
-
-The archived dataset contains the computational data and source files associated with the reaction-network study.
-
-For the complete DFT and computational data, please use the Materials Cloud archive rather than relying on the files included in this GitHub repository.
-
----
-
 ## Citation
 
 If you use the code, methods, or datasets from this repository, please cite both the associated preprint and the complete dataset.
