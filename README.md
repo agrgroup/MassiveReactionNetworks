@@ -266,11 +266,11 @@ For the complete DFT and computational data, please use the Materials Cloud arch
 
 If you use the code, methods, or datasets from this repository, please cite both the associated preprint and the complete dataset.
 
-### Preprint
+### Article
 
-> Data-driven massive reaction networks reveal mechanistic pathways underlying catalytic CO2 hydrogenation. ChemRxiv. DOI: 10.26434/chemrxiv-2025-pnh6l
+> Data-driven massive reaction networks reveal mechanistic pathways underlying catalytic CO2 hydrogenation. Nat Commun (2026). DOI: 10.1038/s41467-026-77080-4
 
-https://doi.org/10.26434/chemrxiv-2025-pnh6l
+https://doi.org/10.1038/s41467-026-77080-4
 
 ### Dataset
 
@@ -282,7 +282,7 @@ https://doi.org/10.24435/materialscloud:94-1n
 
 ## Related Resources
 
-* Preprint: https://chemrxiv.org/doi/10.26434/chemrxiv-2025-pnh6l
+* Article: https://www.nature.com/articles/s41467-026-77080-4
 * Complete Dataset: https://archive.materialscloud.org/records/jkbr7-d2a84
 * Dataset DOI: https://doi.org/10.24435/materialscloud:94-1n
 
